@@ -1,0 +1,33 @@
+User Menu 
+ - need to create a menu that the user chooses 
+    - if they log in 
+    - if they sign up 
+    - if they want to delete their account 
+
+Admin user 
+ - Able to delete any user 
+ - create any user 
+ - change the binary files with all of the items stored on those files 
+
+Bin files 
+ - User binary files  
+    - These files will hold all of the user data such as user name and password 
+ - Item binary files  
+    - These files will keep all of the data for items that the could look for 
+
+
+TO-DO
+ 1) Need to create a user menu 
+    - This should allow the user to sign up or log in
+ 2) Need to add Classes to another file 
+ 3) Need to add Functions to another file  
+
+
+DID NOT FINISH 
+ - Did not finish login or sign up functions 
+ - Both functions need to get the input from the user class 
+ - Sign up function needs to get input from user but have it come from the User class 
+
+ NEED TO LEARN 
+ - Need to study and understand reading from and to binary files 
+ - How to implement classes with the binary files 
